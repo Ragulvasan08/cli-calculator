@@ -29,5 +29,3 @@ This is a **command-line calculator app** written in Python that supports:
 ```bash
 git clone https://github.com/your-username/cli-calculator.git
 cd cli-calculator
-
-
