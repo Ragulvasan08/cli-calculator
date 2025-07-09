@@ -20,6 +20,7 @@ This is a **command-line calculator app** written in Python that supports:
 - [x] Rich CLI interface using [`rich`](https://github.com/Textualize/rich)
 
 ---
+[⬇️ Download Calculator (.exe)](https://github.com/Ragulvasan08/cli-calculator/releases/latest/download/calculator.exe)
 
 ## 🚀 Installation
 
@@ -29,4 +30,4 @@ This is a **command-line calculator app** written in Python that supports:
 git clone https://github.com/your-username/cli-calculator.git
 cd cli-calculator
 
-[⬇️ Download Calculator (.exe)](https://github.com/Ragulvasan08/cli-calculator/releases/latest/download/calculator.exe)
+
